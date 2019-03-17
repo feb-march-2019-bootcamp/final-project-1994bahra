@@ -1,0 +1,59 @@
+<template>
+<div>
+  <br>
+    <h2 id='header'>There are my projects</h2>
+    <br>
+    <br>
+  <table  class="table table-bordered table-hover ">
+  
+  <tbody>
+    <tr class="">
+      
+      <td><div class="col-md-4"> <img src="p1.png"  width="350" height="200"><br>
+    <a href="https://zealous-brattain-6be27d.netlify.com/" class="btn btn-success" role="button">Project 1</a>
+</div></td>
+      <td><div class="col-md-4"> <img src="p2.png"  width="350" height="200"><br>
+    <a href="https://admiring-mclean-cda7e0.netlify.com/" class="btn btn-success" role="button">Project 2</a>
+</div></td>
+      <td><div class="col-md-4"> <img src="p3.png"  width="350" height="200"><br>
+    <a href="https://raw.githubusercontent.com/feb-march-2019-bootcamp/project-3-1994bahra/master/p.js" class="btn btn-success" role="button">Project 3</a>
+</div></td>
+    </tr>
+    <tr>
+     
+      <td><div class="col-md-4"> <img src="p4.png"  width="350" height="200"><br>
+    <a href="https://heuristic-bardeen-7c39d8.netlify.com/indexx.html" class="btn btn-success" role="button">Project 4</a>
+</div></td>
+      <td><div class="col-md-4"> <img src="p5.png"  width="350" height="200"><br>
+    <a href="https://github.com/feb-march-2019-bootcamp/project-5-1994bahra" class="btn btn-success" role="button">Project 5</a>
+</div></td>
+      <td><div class="col-md-4"> <img src="p6.png"  width="350" height="200"><br>
+    <a href="https://github.com/feb-march-2019-bootcamp/project-6-1994bahra" class="btn btn-success" role="button">Project 6</a>
+</div></td>
+    </tr>
+    <br>
+<br>
+<br>
+<br>
+  </tbody>
+</table> 
+  </div>
+</template>
+<script>
+import { state } from '../app-state.js'
+export default {
+    name: 'project',
+  
+  methods:{
+      created() {
+    if (!this.me) {
+      this.$router.push('/');
+    }
+      }
+  } 
+}
+</script>
+<style scoped>
+
+</style>
+

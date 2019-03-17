@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="%= BASE_URL %>favicon.ico">
+    <title>finalproject</title>
+  </head>
+  <body>
+      <!-- <i class="fa fa-user"></i> -->
+    <noscript>
+      <strong>We're sorry but finalproject doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+    <form class='form-inline'name="contact" action="/" method="POST" data-netlify="true" hidden>
+      <input type="hidden" name="form-name" value="contact">
+  
+      <div class="form-group">
+       <label> Your Name:</label>
+        <input type="text" name="name" id="name" class="form-control">
+        <label> Your Email:</label>
+        <input type="email" name="email" id="email" class="form-control">
+        <label>Your Message</label>
+        <textarea name="message" id cols="30" rows="10" class="form-control"></textarea>
+       <button type="submit" class="btn btn-success btn-block">Submit</button>
+      </div>
+    </form>
+    <!-- <i class="fa fa-facebook-square"></i> -->
+  </body>
+</html>
