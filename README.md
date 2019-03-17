@@ -1,6 +1,6 @@
 # final-project
 
 
-#netlify link
+netlify link
 
-#https://elated-liskov-838ca0.netlify.com/?id=home
+https://elated-liskov-838ca0.netlify.com/
