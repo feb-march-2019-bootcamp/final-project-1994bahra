@@ -10,10 +10,10 @@
     <tr class="">
       
       <td><div class="col-md-4"> <img src="p1.png"  width="350" height="200"><br>
-    <a href="https://zealous-brattain-6be27d.netlify.com/" class="btn btn-success" role="button">Project 1</a>
+    <a href="https://naughty-kare-8e36fb.netlify.com/" class="btn btn-success" role="button">Project 1</a>
 </div></td>
       <td><div class="col-md-4"> <img src="p2.png"  width="350" height="200"><br>
-    <a href="https://admiring-mclean-cda7e0.netlify.com/" class="btn btn-success" role="button">Project 2</a>
+    <a href="https://nifty-noyce-62caff.netlify.com/" class="btn btn-success" role="button">Project 2</a>
 </div></td>
       <td><div class="col-md-4"> <img src="p3.png"  width="350" height="200"><br>
     <a href="https://raw.githubusercontent.com/feb-march-2019-bootcamp/project-3-1994bahra/master/p.js" class="btn btn-success" role="button">Project 3</a>
@@ -22,7 +22,7 @@
     <tr>
      
       <td><div class="col-md-4"> <img src="p4.png"  width="350" height="200"><br>
-    <a href="https://heuristic-bardeen-7c39d8.netlify.com/indexx.html" class="btn btn-success" role="button">Project 4</a>
+    <a href="https://sharp-meninsky-de4327.netlify.com/indexx.html" class="btn btn-success" role="button">Project 4</a>
 </div></td>
       <td><div class="col-md-4"> <img src="p5.png"  width="350" height="200"><br>
     <a href="https://github.com/feb-march-2019-bootcamp/project-5-1994bahra" class="btn btn-success" role="button">Project 5</a>
