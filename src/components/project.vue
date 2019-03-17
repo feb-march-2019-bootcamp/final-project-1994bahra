@@ -28,7 +28,7 @@
     <a href="https://optimistic-cori-9f9022.netlify.com/" class="btn btn-success" role="button" role="button">Project 5</a>
 </div></td>
       <td><div class="col-md-4"> <img src="p6.png"  width="350" height="200"><br>
-    <a href="https://github.com/feb-march-2019-bootcamp/project-6-1994bahra" class="btn btn-success" role="button">Project 6</a>
+    <a href="https://hungry-euclid-f73351.netlify.com/" class="btn btn-success" role="button">Project 6</a>
 </div></td>
     </tr>
     <br>
