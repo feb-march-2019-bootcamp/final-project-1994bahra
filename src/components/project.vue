@@ -39,6 +39,7 @@
 </table> 
   </div>
 </template>
+
 <script>
 import { state } from '../app-state.js'
 export default {
